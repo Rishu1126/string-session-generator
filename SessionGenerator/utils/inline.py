@@ -9,9 +9,9 @@ keyboard = InlineKeyboardMarkup(
     [
         [InlineKeyboardButton(text="💓 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 💓", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="💘 𝗢𝗪𝗡𝗘𝗥 💘", url="https://t.me/Abhi_rss"),
+            InlineKeyboardButton(text="💘 𝗢𝗪𝗡𝗘𝗥 💘", url="https://t.me/Niksonfire"),
             InlineKeyboardButton(
-                text="🥀𝗕𝗢𝗧𝗛𝗨𝗕 𝗡𝗘𝗧𝗪𝗢𝗥𝗞🥀", url="https://t.me/bot_hub_network"
+                text="🥀𝗨𝗣𝗗𝗔𝗧𝗘🥀", url="https://t.me/dil_ke_alfaaaz"
             ),
         ],
     ]
